@@ -1,0 +1,11 @@
+.general{
+    background-image: linear-gradient(to bottom, #624E88, #CB80AB);
+    grid-template-columns: auto ;
+    grid-template-rows: 25% auto;
+}
+
+h1{
+    color: #E6D9A2;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5);
+    background-color: #8967B3;
+}
